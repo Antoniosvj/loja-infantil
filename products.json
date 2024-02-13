@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "nome": "Saia Jeans com Blusa de Alça",
+        "descricao": "conjunto de saia jeans com blusa de alça, acompanhado de cinto e bolsa tira-colo",
+        "tamanho": "Tamanho - 10",
+        "preco": 159.90,
+        "imagem": "./image/menina1.jfif",
+        "categoria": "mais_vendidos"
+    },
+    {
+        "id": 2,
+        "nome": "Conjunto Mickei",
+        "descricao": "Conjunto com estampa Mickei, camisa branca e bermuda cinza",
+        "tamanho": "Tamanho - 8",
+        "preco": 59.90,
+        "imagem": "./image/menina (1).jpg",
+        "categoria": "mais_vendidos"
+    },
+    {
+        "id": 3,
+        "nome": "Conjunto meu 1º natal",
+        "descricao": "Roupa meu primeiro natal feminina vermelha com laço",
+        "tamanho": "Tamanho - 2",
+        "preco": 69.90,
+        "imagem": "./image/menina (1).webp",
+        "categoria": "precos_especiais"
+    },
+    {
+        "id": 4,
+        "nome": "Vestido preto",
+        "descricao": "Vestido preto com detalhe branco",
+        "tamanho": "Tamanho - 8",
+        "preco": 179.90,
+        "imagem": "./image/menina (2).jpg",
+        "categoria": "precos_especiais"
+    },
+    {
+        "id": 5,
+        "nome": "Macacão Love",
+        "descricao": "Macacão feminino infantil love com estampa de coração",
+        "tamanho": "Tamanho - 6",
+        "preco": 159.90,
+        "imagem": "./image/menina (2).webp",
+        "categoria": "mais_vendidos"
+    },
+    {
+        "id": 6,
+        "nome": "Conjuntinho Arco Iris",
+        "descricao": "Conjunto arco iris",
+        "tamanho": "Tamanho - 4",
+        "preco": 69.90,
+        "imagem": "./image/menina (3).webp",
+        "categoria": "precos_especiais"
+    },
+    {
+        "id": 7,
+        "nome": "Conjunto masculino Lacoste",
+        "descricao": "Conjunto masculino, bermuda e camisa Lacoste cor preto com detalhes em cinza e vermelho",
+        "tamanho": "Tamanho - 6",
+        "preco": 259.90,
+        "imagem": "./image/menino (1).jfif",
+        "categoria": "mais_vendidos"
+    },
+    {
+        "id": 8,
+        "nome": "Conjunto festa masculino preto",
+        "descricao": "conjunto masculino calça preta e camisa branca com suspensol e gravata borboleta",
+        "tamanho": "Tamanho - 7",
+        "preco": 159.90,
+        "imagem": "./image/menino (1).webp",
+        "categoria": "precos_especiais"
+    },
+    {
+        "id": 9,
+        "nome": "conjunto festa masculino azul",
+        "descricao": "conjunto masculino calça azul e camisa branca com suspensol e gravata borboleta",
+        "tamanho": "Tamanho - 6",
+        "preco": 159.90,
+        "imagem": "./image/menino (2).webp",
+        "categoria": "precos_especiais"
+    },
+    {
+        "id": 10,
+        "nome": "conjuntinho urso",
+        "descricao": "camisa preta, bermuda marron e tenis preto",
+        "tamanho": "Tamanho - 2",
+        "preco": 79.90,
+        "imagem": "./image/menino (3).webp",
+        "categoria": "mais_vendidos"
+    },
+    {
+        "id": 11,
+        "nome": "kit conjuntinhos femininos",
+        "descricao": "kit com vários conjuntos e cores variadas",
+        "tamanho": "Tamanho - 4",
+        "preco": 79.90,
+        "imagem": "./image/menina (4).webp",
+        "categoria": "precos_especiais"
+    },
+    {
+        "id": 12,
+        "nome": "Roupa camuflada king",
+        "descricao": "Roupa camuflada king, camisa e calça",
+        "tamanho": "Tamanho - 3",
+        "preco": 179.90,
+        "imagem": "./image/menino (5).webp",
+        "categoria": "precos_especiais"
+    },
+    {
+        "id": 13,
+        "nome": "Conjunto masculino azul galinha pintadinha",
+        "descricao": "conjunto com camisa, bermuda, tenis e suspensol",
+        "tamanho": "Tamanho - 5",
+        "preco": 129.90,
+        "imagem": "./image/menino (4).webp",
+        "categoria": "mais_vendidos"
+    }
+
+]
